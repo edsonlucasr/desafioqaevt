@@ -1,6 +1,7 @@
 1. Baixar e descompactar o arquivo ZIP do GitHub. Salvar os arquivos descompactados em sua máquina.
 
 2. Pré-requisitos
+
 Instale os seguintes softwares:
 Node.js (versão 16 ou superior)
 NPM (vem junto com o Node.js)
