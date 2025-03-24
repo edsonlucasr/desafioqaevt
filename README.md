@@ -26,7 +26,7 @@ Abra o Cypress para configurar o projeto:
 npx cypress open  
 Isso criará uma estrutura de pastas (cypress/) e o arquivo de configuração cypress.config.js.
  
-3. Criar Testes
+4. Criar Testes
 Crie as pastas para organizar os testes:
 
 mkdir cypress/e2e/frontend  
@@ -38,7 +38,7 @@ Para frontend: cypress/e2e/frontend/testesfrontend.js
 Para API: cypress/e2e/api/testesapi.js
 Escreva os cenários de teste dentro desses arquivos utilizando Cypress.
 
-4. Executar os Testes
+5. Executar os Testes
 Para abrir a interface do Cypress e executar os testes interativamente:
 npx cypress open  
 Para executar os testes diretamente no terminal:
